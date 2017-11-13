@@ -90,3 +90,11 @@ Files: index1
 
 Select multiple check box in Jquery and listed using PHP foreach
 Files: index, ajax
+
+8:Scaling down images to Thumbnail
+==================================================================
+
+Images scaling down to thumbnail
+
+
+
